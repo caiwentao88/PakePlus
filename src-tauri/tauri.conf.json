@@ -1,8 +1,8 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "当贝AI",
+    "productName": "XCloud音乐",
     "version": "0.0.1",
-    "identifier": "com.dangbeiai.app",
+    "identifier": "com.Xcloudv.app",
     "app": {
         "security": {
             "assetProtocol": {
